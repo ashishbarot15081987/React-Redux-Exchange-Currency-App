@@ -1,2 +1,3 @@
-# React Redux Currancy Covert App using exchangerate API
+# React Redux Currency Covert App Using Exchange Rate Api
+# exchangerate-api.com  
   
